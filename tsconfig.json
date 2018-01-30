@@ -1,0 +1,201 @@
+{
+  "offset": 0,
+  "limit": 2147483647,
+  "total": 15,
+  "size": 10,
+  "pages": 2,
+  "current": 1,
+  "searchCount": true,
+  "openSort": true,
+  "orderByField": null,
+  "records": [
+    {
+      "id": 1,
+      "name": "Adella Bednar",
+      "nickname": "eligendisss",
+      "email": "bailey25@example.com",
+      "birthdate": "1990-05-18",
+      "gender": "F",
+      "salary": "30047.00",
+      "age": 27,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 2,
+      "name": "Ahmad Ortiz.Ji",
+      "nickname": "in",
+      "email": "lkulas@example.com",
+      "birthdate": "1992-09-12",
+      "gender": "F",
+      "salary": "44326.00",
+      "age": 25,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 3,
+      "name": "Alexane Bruen",
+      "nickname": "dolorem",
+      "email": "green03@example.com",
+      "birthdate": "1991-10-10",
+      "gender": "F",
+      "salary": "49771.00",
+      "age": 27,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 4,
+      "name": "Alfonzo Dach",
+      "nickname": "velit",
+      "email": "bahringer@example.com",
+      "birthdate": "1967-04-24",
+      "gender": "M",
+      "salary": "40084.00",
+      "age": 50,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 5,
+      "name": "Andres Kris",
+      "nickname": "ipsam",
+      "email": "ipsam@example.com",
+      "birthdate": "1984-12-24",
+      "gender": "F",
+      "salary": "40090.00",
+      "age": 32,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 6,
+      "name": "Angelo Considine",
+      "nickname": "vel",
+      "email": "vel@example.com",
+      "birthdate": "1996-08-11",
+      "gender": "F",
+      "salary": "10903.00",
+      "age": 21,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 7,
+      "name": "Armand Kertzmann",
+      "nickname": "eligendi",
+      "email": "bailey25@example.com",
+      "birthdate": "1990-05-18",
+      "gender": "F",
+      "salary": "30047.00",
+      "age": 27,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 8,
+      "name": "Ashlee Wiegand",
+      "nickname": "dolore",
+      "email": "dolore@example.com",
+      "birthdate": "1995-10-08",
+      "gender": "F",
+      "salary": "17291.00",
+      "age": 21,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 9,
+      "name": "Aubree Wolff",
+      "nickname": "labore",
+      "email": "labore@example.com",
+      "birthdate": "1967-05-12",
+      "gender": "F",
+      "salary": "14561.00",
+      "age": 50,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    },
+    {
+      "id": 10,
+      "name": "Audrey Effertz",
+      "nickname": "debitis",
+      "email": "debitis@example.com",
+      "birthdate": "1973-06-05",
+      "gender": "F",
+      "salary": "30047.00",
+      "age": 44,
+      "createAt": "2017-01-01",
+      "updateAt": "2017-01-01"
+    }
+  ],
+  "condition": null,
+  "tableLables": [
+    {
+      "tid": 1,
+      "prop": "name",
+      "label": "名称",
+      "sortable": false,
+      "type": "input",
+      "inputType": "text",
+      "options": null
+    },
+    {
+      "tid": 2,
+      "prop": "nickname",
+      "label": "昵称",
+      "sortable": true,
+      "type": "input",
+      "inputType": "text",
+      "options": null
+    },
+    {
+      "tid": 3,
+      "prop": "email",
+      "label": "邮箱",
+      "sortable": false,
+      "type": "input",
+      "inputType": "email",
+      "options": null
+    },
+    {
+      "tid": 4,
+      "prop": "birthdate",
+      "label": "生日",
+      "sortable": false,
+      "type": "input",
+      "inputType": "date",
+      "options": null
+    },
+    {
+      "tid": 5,
+      "prop": "gender",
+      "label": "性别",
+      "sortable": true,
+      "type": "input",
+      "inputType": "radio",
+      "options": [
+        {
+          "label": "男",
+          "value": "M"
+        },
+        {
+          "label": "女",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "tid": 6,
+      "prop": "id",
+      "label": "ID",
+      "sortable": true,
+      "type": "input",
+      "inputType": "text",
+      "options": null
+    }
+  ],
+  "offsetCurrent": 0,
+  "asc": true
+}
