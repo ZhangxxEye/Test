@@ -14,6 +14,8 @@ export const state = () => ({
 
 export const mutations = {
 
+
+
   TOGGLE_DEVICE (state, device) {
     state.device.isMobile = device === 'mobile'
     state.device.isTablet = device === 'tablet'
